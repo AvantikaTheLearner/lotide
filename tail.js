@@ -22,6 +22,7 @@ const tail = function(array) {
 };
 
 const result = tail(["Hello", "Lighthouse", "Labs"]);
+//const result = tail(["Hello", "Lighthouse", "Labs","House"]);
 //const result = tail(["Hello"]);
 //const result = tail([]);
 console.log(result);
